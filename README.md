@@ -6,18 +6,6 @@ Most LLM coding prompts output surface-level snippets—missing strict input val
 
 Optimized for **Claude Sonnet, GPT, and Gemini Pro** (works directly in Cursor, Windsurf, VS Code, or web chat).
 
----
-
-## Real-World Output Samples (Stripe Metered Billing Engine)
-
-These outputs were generated directly using **Prompt #1** and **Prompt #5** below:
-
-![Technical Specification Preview](./assets/01_prompt_1_technical_spec_preview.png)
-![Pre-Flight Security Audit Verdict](./assets/02_prompt_5_security_audit_verdict.png)
-![Production Pull Request Output](./assets/03_prompt_5_production_pr_cover.png)
-
----
-
 ## Free Prompt #1: Feature Deconstruction & Technical Specification Architect
 
 Use this before writing a single line of code to eliminate ambiguity, define finite-state machines, and map edge cases.
